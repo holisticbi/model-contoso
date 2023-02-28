@@ -1,0 +1,17 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Fiscal Month",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Fiscal Month]",
+  "formatString": "0",
+  "lineageTag": "79aa4cfc-73d5-4034-87f2-d61f5a64cb80",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "End of Month",
+  "dataType": "dateTime",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[End of Month]",
+  "formatString": "General Date",
+  "lineageTag": "7181ed7a-37de-4f73-b5b0-f43dd6435a83",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

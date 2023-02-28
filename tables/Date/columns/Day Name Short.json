@@ -1,0 +1,16 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Day Name Short",
+  "dataType": "string",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Day Name Short]",
+  "lineageTag": "98d271ac-b336-4602-8959-13ad14140a56",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

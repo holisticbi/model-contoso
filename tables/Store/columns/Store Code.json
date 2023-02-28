@@ -1,0 +1,14 @@
+{
+  "name": "Store Code",
+  "dataType": "int64",
+  "sourceColumn": "Store Code",
+  "formatString": "0",
+  "lineageTag": "8a9f424f-cae8-4f64-89b5-ae67fd59608d",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

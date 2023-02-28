@@ -1,0 +1,17 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Day Offset",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Day Offset]",
+  "formatString": "0",
+  "lineageTag": "8ffeea1d-9b9d-43a4-b7ad-c8fcac054efc",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

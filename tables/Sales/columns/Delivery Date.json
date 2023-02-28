@@ -1,0 +1,18 @@
+{
+  "name": "Delivery Date",
+  "dataType": "dateTime",
+  "sourceColumn": "Delivery Date",
+  "formatString": "Long Date",
+  "lineageTag": "de212f60-b617-45a7-9cb2-cac4290edc5d",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "UnderlyingDateTimeDataType",
+      "value": "Date"
+    }
+  ]
+}

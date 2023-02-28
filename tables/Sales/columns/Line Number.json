@@ -1,0 +1,14 @@
+{
+  "name": "Line Number",
+  "dataType": "int64",
+  "sourceColumn": "Line Number",
+  "formatString": "0",
+  "lineageTag": "b8e3a916-ab34-456c-a988-62568b44a028",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Quarter Offset",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Quarter Offset]",
+  "formatString": "0",
+  "lineageTag": "e8bfb812-a02a-414f-a013-606ce5e30eb0",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

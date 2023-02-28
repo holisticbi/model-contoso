@@ -1,0 +1,17 @@
+{
+  "name": "Exchange",
+  "dataType": "double",
+  "sourceColumn": "Exchange",
+  "lineageTag": "d5819500-58b7-466d-ab5d-33b9827fcaa2",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

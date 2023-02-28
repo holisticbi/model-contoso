@@ -1,0 +1,14 @@
+{
+  "name": "Currency Exchange-952d3b9a-36da-488b-ad45-5a6fabf11ab4",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Sql.Database(\"nuc-office\", \"contoso\"),",
+      "    #\"dbo_Currency Exchange\" = Source{[Schema=\"dbo\",Item=\"Currency Exchange\"]}[Data]",
+      "in",
+      "    #\"dbo_Currency Exchange\""
+    ]
+  }
+}

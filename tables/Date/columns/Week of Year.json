@@ -1,0 +1,17 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Week of Year",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Week of Year]",
+  "formatString": "0",
+  "lineageTag": "28162bd9-8eeb-4cf0-8830-8c8ef5f8c476",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

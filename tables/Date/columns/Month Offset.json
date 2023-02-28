@@ -1,0 +1,17 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Month Offset",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Month Offset]",
+  "formatString": "0",
+  "lineageTag": "88b0d7b0-b70a-44b7-b6c7-4c8878710d2c",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

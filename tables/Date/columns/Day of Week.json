@@ -1,0 +1,17 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Day of Week",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Day of Week]",
+  "formatString": "0",
+  "lineageTag": "e47ab672-3987-4a09-8b8a-e67d1d172b72",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

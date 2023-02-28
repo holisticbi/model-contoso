@@ -1,0 +1,13 @@
+{
+  "name": "Continent",
+  "dataType": "string",
+  "sourceColumn": "Continent",
+  "lineageTag": "a369ccfe-b26c-41fc-95ba-6a021fe58cab",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

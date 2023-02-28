@@ -1,0 +1,14 @@
+{
+  "name": "Product-b961c241-7df5-4189-b8c0-eb4d7db44839",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Sql.Database(\"nuc-office\", \"contoso\"),",
+      "    dbo_Product = Source{[Schema=\"dbo\",Item=\"Product\"]}[Data]",
+      "in",
+      "    dbo_Product"
+    ]
+  }
+}

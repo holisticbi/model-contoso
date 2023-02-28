@@ -1,0 +1,17 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Days in Month",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Days in Month]",
+  "formatString": "0",
+  "lineageTag": "066c081b-1cab-4559-9707-17869666c706",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

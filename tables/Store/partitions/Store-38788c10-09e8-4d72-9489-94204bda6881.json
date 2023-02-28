@@ -1,0 +1,14 @@
+{
+  "name": "Store-38788c10-09e8-4d72-9489-94204bda6881",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Sql.Database(\"nuc-office\", \"contoso\"),",
+      "    dbo_Store = Source{[Schema=\"dbo\",Item=\"Store\"]}[Data]",
+      "in",
+      "    dbo_Store"
+    ]
+  }
+}

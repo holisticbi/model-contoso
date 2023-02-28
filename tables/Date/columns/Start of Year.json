@@ -1,0 +1,17 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Start of Year",
+  "dataType": "dateTime",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Start of Year]",
+  "formatString": "General Date",
+  "lineageTag": "810cb6db-0214-4073-af71-2cc1dfa7f896",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

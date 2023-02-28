@@ -1,0 +1,17 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Start of Month",
+  "dataType": "dateTime",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Start of Month]",
+  "formatString": "General Date",
+  "lineageTag": "ffd3693a-b57d-4542-9bf0-9dba9cd3f646",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

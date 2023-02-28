@@ -1,0 +1,18 @@
+{
+  "name": "Unit Price",
+  "dataType": "decimal",
+  "sourceColumn": "Unit Price",
+  "formatString": "\\$#,0.###############;(\\$#,0.###############);\\$#,0.###############",
+  "lineageTag": "9c6669fb-07dd-4cba-b415-32dae2b0fc56",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"currencyCulture\":\"en-US\"}"
+    }
+  ]
+}

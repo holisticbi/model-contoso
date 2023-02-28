@@ -1,0 +1,13 @@
+{
+  "name": "ToCurrency",
+  "dataType": "string",
+  "sourceColumn": "ToCurrency",
+  "lineageTag": "df3d4e61-c343-48ae-84f8-5d055f079c1a",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

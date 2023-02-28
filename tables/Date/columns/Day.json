@@ -1,0 +1,17 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Day",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Day]",
+  "formatString": "0",
+  "lineageTag": "4349aad3-4678-48c1-8b30-c229b4135321",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

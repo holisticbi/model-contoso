@@ -1,0 +1,17 @@
+{
+  "name": "Weight",
+  "dataType": "double",
+  "sourceColumn": "Weight",
+  "lineageTag": "6578895c-92d3-4ef6-add0-2d3ee5b46759",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

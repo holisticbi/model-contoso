@@ -1,0 +1,17 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Day of Year",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Day of Year]",
+  "formatString": "0",
+  "lineageTag": "69f939f7-abd5-43de-8f50-66166cace18a",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Date",
+  "dataType": "dateTime",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isKey": true,
+  "sourceColumn": "[Date]",
+  "formatString": "General Date",
+  "lineageTag": "3fa7f48f-15cf-4f16-af15-dd55b09e5a5a",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

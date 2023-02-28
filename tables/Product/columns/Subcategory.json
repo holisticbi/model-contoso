@@ -1,0 +1,13 @@
+{
+  "name": "Subcategory",
+  "dataType": "string",
+  "sourceColumn": "Subcategory",
+  "lineageTag": "55185815-dc8b-49ac-979b-0fb4727bdffb",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

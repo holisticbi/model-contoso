@@ -1,0 +1,17 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Fiscal Year",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Fiscal Year]",
+  "formatString": "0",
+  "lineageTag": "c1776410-506c-4bf8-b605-e785d66e697a",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

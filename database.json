@@ -1,0 +1,40 @@
+{
+  "name": "Contoso Model",
+  "id": "96a407a1-3156-48c6-998f-c8d3e9109103",
+  "compatibilityLevel": 1550,
+  "model": {
+    "culture": "en-US",
+    "dataAccessOptions": {
+      "legacyRedirects": true,
+      "returnErrorValuesAsNull": true
+    },
+    "defaultPowerBIDataSourceVersion": "powerBI_V3",
+    "sourceQueryCulture": "en-US",
+    "annotations": [
+      {
+        "name": "__PBI_TimeIntelligenceEnabled",
+        "value": "0"
+      },
+      {
+        "name": "PBIDesktopVersion",
+        "value": "2.114.864.0 (23.02)"
+      },
+      {
+        "name": "PBI_QueryOrder",
+        "value": "[\"Currency Exchange\",\"Customer\",\"Product\",\"Store\",\"Sales\"]"
+      },
+      {
+        "name": "TabularEditor_SerializeOptions",
+        "value": "{\"IgnoreInferredObjects\":true,\"IgnoreInferredProperties\":true,\"IgnoreTimestamps\":true,\"SplitMultilineStrings\":true,\"PrefixFilenames\":false,\"LocalTranslations\":true,\"LocalPerspectives\":true,\"LocalRelationships\":true,\"Levels\":[\"Data Sources\",\"Shared Expressions\",\"Perspectives\",\"Relationships\",\"Roles\",\"Tables\",\"Tables/Columns\",\"Tables/Hierarchies\",\"Tables/Measures\",\"Tables/Partitions\",\"Tables/CalculationItems\",\"Translations\"]}"
+      },
+      {
+        "name": "TabularEditor_Cultures",
+        "value": "[\"en-US\"]"
+      },
+      {
+        "name": "TabularEditor_Perspectives",
+        "value": "[]"
+      }
+    ]
+  }
+}

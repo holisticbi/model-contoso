@@ -1,0 +1,13 @@
+{
+  "name": "Currency Code",
+  "dataType": "string",
+  "sourceColumn": "Currency Code",
+  "lineageTag": "bed3915c-7756-464b-a0f4-3babf46c235c",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

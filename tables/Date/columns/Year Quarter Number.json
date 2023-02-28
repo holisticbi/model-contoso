@@ -1,0 +1,17 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Year Quarter Number",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Year Quarter Number]",
+  "formatString": "0",
+  "lineageTag": "dc5e593f-cbc4-4475-a2c5-943d3c5c200e",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

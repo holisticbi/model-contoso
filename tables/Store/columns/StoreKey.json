@@ -1,0 +1,14 @@
+{
+  "name": "StoreKey",
+  "dataType": "int64",
+  "sourceColumn": "StoreKey",
+  "formatString": "0",
+  "lineageTag": "98421c9e-f227-42d4-ab64-c90df3cfe5e8",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

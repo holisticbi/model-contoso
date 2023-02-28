@@ -1,0 +1,17 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Quarter",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Quarter]",
+  "formatString": "0",
+  "lineageTag": "73ca1345-8cd4-4a65-89e4-db1e36082265",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Order Date",
+  "dataType": "dateTime",
+  "sourceColumn": "Order Date",
+  "formatString": "Long Date",
+  "lineageTag": "26f5b586-09db-4c13-9463-9af2388eeba7",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "UnderlyingDateTimeDataType",
+      "value": "Date"
+    }
+  ]
+}

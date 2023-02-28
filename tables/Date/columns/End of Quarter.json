@@ -1,0 +1,17 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "End of Quarter",
+  "dataType": "dateTime",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[End of Quarter]",
+  "formatString": "General Date",
+  "lineageTag": "856fa966-3cc0-42f5-aede-50252768409b",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

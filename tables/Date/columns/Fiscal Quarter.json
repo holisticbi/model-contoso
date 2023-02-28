@@ -1,0 +1,17 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Fiscal Quarter",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Fiscal Quarter]",
+  "formatString": "0",
+  "lineageTag": "85803969-4996-4f62-998c-2f4f76897694",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

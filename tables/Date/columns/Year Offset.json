@@ -1,0 +1,17 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Year Offset",
+  "dataType": "int64",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Year Offset]",
+  "formatString": "0",
+  "lineageTag": "01fd1761-5f4d-43da-a64c-7e978a305cab",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

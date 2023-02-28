@@ -1,0 +1,14 @@
+{
+  "name": "Sales-4d9bf1c7-c559-40b8-aedc-7e13c5072aa5",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Sql.Database(\"nuc-office\", \"contoso\"),",
+      "    dbo_Sales = Source{[Schema=\"dbo\",Item=\"Sales\"]}[Data]",
+      "in",
+      "    dbo_Sales"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Start of Quarter",
+  "dataType": "dateTime",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Start of Quarter]",
+  "formatString": "General Date",
+  "lineageTag": "35844e20-5041-47c0-92cc-ff089fd47001",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

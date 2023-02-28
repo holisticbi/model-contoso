@@ -1,0 +1,13 @@
+{
+  "name": "Country Code",
+  "dataType": "string",
+  "sourceColumn": "Country Code",
+  "lineageTag": "88ae6334-2030-460b-8aff-cb46f15bcc1e",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

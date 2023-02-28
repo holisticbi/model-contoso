@@ -1,0 +1,17 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Start of Week",
+  "dataType": "dateTime",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[Start of Week]",
+  "formatString": "General Date",
+  "lineageTag": "f681afc3-8cd1-465c-8fee-e3b911330889",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Store",
+  "lineageTag": "b22dd3f1-4e53-4236-80ee-2595bdfad034",
+  "annotations": [
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    },
+    {
+      "name": "TabularEditor_Relationships",
+      "value": "[]"
+    }
+  ]
+}

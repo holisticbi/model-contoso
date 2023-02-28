@@ -1,0 +1,14 @@
+{
+  "name": "Customer-35e9b9b6-a463-4a30-a97c-a6df2216015c",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Sql.Database(\"nuc-office\", \"contoso\"),",
+      "    dbo_Customer = Source{[Schema=\"dbo\",Item=\"Customer\"]}[Data]",
+      "in",
+      "    dbo_Customer"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "End of Week",
+  "dataType": "dateTime",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "sourceColumn": "[End of Week]",
+  "formatString": "General Date",
+  "lineageTag": "c66fe109-9db9-4aca-b011-b4dce15a2663",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}
